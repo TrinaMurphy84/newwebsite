@@ -1,0 +1,71 @@
+/*general*/
+
+
+
+#wrapper {
+    display: block;
+    background-color: #FFFFFF;
+    font-family: 'Dawning of a New Day', handwriting, cursive;
+    color:#C83520;
+    font-size: 10px;
+
+  
+}
+
+.column {
+    margin: 0 auto;
+    width: 60%;
+
+}
+
+/*header*/
+
+#header {
+    
+
+
+}
+
+/*content*/
+
+.content {
+
+}
+
+
+/*billboard*/
+
+#billboard { 
+    background-image: url("http://www.picasso.fr/shared/interface/accueil-fond.jpg");
+    background-image: no-repeat;
+    float:left;
+
+}
+
+/*gallery*/
+
+#gallery {
+
+    
+}
+
+/*content1*/
+
+
+/*content2*/
+
+#content2.col {
+
+}
+
+
+
+
+/*footer*/
+
+#footer {
+  
+}
+
+
+

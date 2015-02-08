@@ -1,0 +1,88 @@
+/*general*/
+
+body {
+    display: block;
+    background-image: url("http://www.picasso.fr/shared/interface/accueil-fond.jpg");
+    background-color: #FFFFFF;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    height:100%;
+    width:100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font size:10px;
+    color:#b2b2b2;
+
+
+  
+}
+
+.column {
+    margin: 0 auto;
+    width: 60%;
+
+}
+#wrapper {
+   
+}
+
+/*header*/
+
+#header {
+    
+
+
+}
+
+/*header*/
+
+#header ul {
+    
+
+}
+
+/*header*/
+
+
+#header ul li {
+
+
+}
+
+#header ul {
+
+}
+
+/*billboard*/
+
+#billboard {
+
+}
+
+/*gallery*/
+
+#gallery {
+
+    
+}
+
+/*content1*/
+
+
+/*content2*/
+
+#content2.col {
+
+}
+
+
+
+
+/*footer*/
+
+#footer {
+  
+}
+
+
+
