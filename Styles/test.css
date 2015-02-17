@@ -1,0 +1,162 @@
+
+/**********general***************/
+
+ul {
+  padding:0px;
+  margin:0px;
+}
+
+
+body {
+  font-family: 'Cabin', sans-serif;
+  background-image: url(imgs/background_opcion2.jpg);
+  background-repeat: repeat;
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.wrapper {
+  margin:20px;
+  margin-bottom:100px;
+  display:inline-block;
+}
+
+.clear {
+  clear:both;
+}
+
+.col {
+  float:left;
+   padding:10px;
+}
+
+.content {
+  width:60%;
+  margin: 0 auto;
+  display:block;
+}
+
+/**********header**********/
+#logo {
+  position:absolute;
+  
+}
+
+#header a {
+  display:inline;
+  top:10px;
+
+}
+
+#nav {
+  text-align: center;
+  padding-top:30px;
+}
+
+#nav ul li{
+  display:inline;
+}
+
+#nav ul li a {
+  font-size:20px;
+  color:black;
+  text-decoration: none;
+  padding: 0 30px;
+}
+
+
+/**********billboard**********/
+#billboard {
+}
+
+#billboard h1 {
+  text-align: center;
+  margin: 0px;
+  font-size: 90px;
+}
+
+/**********gallery**********/
+#gallery {
+  margin:10px;
+}
+
+#gallery img {
+  border: 10px solid white;
+  margin: 5px;
+}
+
+/**********content1**********/
+#content1 {
+  border-top: black 5px solid;
+}
+
+#content1 h2 {
+  font-size: 30px;
+}
+
+/**********content2**********/
+
+#content2 p {
+  position:relative;
+  top:50%;
+  left:-5px;
+  text-align: center;
+}
+
+#content2 .col {
+  width:18%;
+}
+
+#content2 h3 {
+  height:215px;
+}
+
+#c2_col1 h3{
+  background-image: url(imgs/back_procesos_1.png);
+  background-repeat: no-repeat;
+}
+
+#c2_col2 h3{
+  background-image: url(imgs/back_procesos_2.png);
+  background-repeat: no-repeat;
+}
+
+#c2_col3 h3{
+  background-image: url(imgs/back_procesos_3.png);
+  background-repeat: no-repeat;
+}
+
+#c2_col4 h3{
+  background-image: url(imgs/back_procesos_4.png);
+  background-repeat: no-repeat;
+}
+
+#c2_col5 h3{
+  background-image: url(imgs/back_procesos_5.png);
+  background-repeat: no-repeat;
+}
+
+/**********content3**********/
+#content3 {
+}
+
+/**********content4**********/
+
+#content4 ul{
+  list-style: none;
+}
+
+/**********footer**********/
+#footer {
+  padding:10px;
+  text-align: center;
+
+  background-color:black;
+  color:white;
+
+  position:fixed;
+  bottom:0px;
+  width:100%;
+}
